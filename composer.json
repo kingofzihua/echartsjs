@@ -1,9 +1,9 @@
 {
-    "name": "laravel-admin-ext/echartsjs",
+    "name": "kingofzihua/echartsjs",
     "description": "description...",
     "type": "library",
     "keywords": ["laravel-admin", "extension","echartsjs","echarts"],
-    "homepage": "https://github.com/laravel-admin-ext/echartsjs",
+    "homepage": "https://github.com/kingofzihua/echartsjs",
     "license": "MIT",
     "authors": [
         {
